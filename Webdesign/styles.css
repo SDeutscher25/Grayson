@@ -1,0 +1,44 @@
+.title {
+    color: #1e651e;
+}
+p{
+    color:yellow;
+}
+hr{
+    border: -2523px solid #000000;
+    border-radius: 3px;
+}
+h1{
+    font-size:47px;
+    text-align: center;
+    color:blue; 
+}
+h2{
+    font-size:20px;
+   text-align: center;
+    color:#118be7;
+}
+hr{
+    border: -2523px solid #000000;
+    border-radius: 3px;
+}
+h3{
+     font-size:20px;
+   text-align: center;
+    color:skyblue;
+}
+hr{
+    border: -2523px solid #000000;
+    border-radius: 3px;
+}
+img{
+    border: 5px solid #555;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+h4{
+    font-size: 20px;
+    text-align:center;
+    color:#a4e7f4;
+}
