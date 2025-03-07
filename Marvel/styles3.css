@@ -1,0 +1,28 @@
+
+body{
+    /* The image used */
+  background-image: url(captain2.jpg);
+
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body{
+    color:#ffffff;
+}
+a{
+  list-style-type: none;
+  margin-right: 49px;
+    margin-left: 230px;
+  padding: 10;
+  overflow: hidden;
+  float: center;
+  display: inline-block;
+  padding: 8px;
+  background-color: #e32a2a;
+}
