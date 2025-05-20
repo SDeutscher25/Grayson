@@ -1,0 +1,26 @@
+.title {
+    color: #000000;
+}
+a{
+  list-style-type: none;
+  margin-right: 49px;
+    margin-left: 114px;
+  padding: 10;
+  overflow: hidden;
+  float: center;
+  display: inline-block;
+  padding: 6px;
+  background-color: #ff9494;
+   border-radius: 122%;
+}
+h1{
+    text-align:center; 
+}
+div{
+    text-align: center;
+}
+
+body{
+  background-color:skyblue;
+}
+
